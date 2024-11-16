@@ -10,5 +10,6 @@
 
 print('hello python') #기본 콘솔출력
 
-res = input('이름을 입력하세요 > ')
+res = input('이름을 입력하세요 > ') #입력콘솔
 print(f'안녕하세요 {res}님!')
+
